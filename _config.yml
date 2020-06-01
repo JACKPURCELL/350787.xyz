@@ -66,10 +66,10 @@ netease_comment: false
 
 # gitalk settings
 gitalk:
-    owner: jackpurcell
-    repo: blog-comments
-    clientID: 4c5b4a53060f2d98899b
-    clientSecret: f55c05fbd59376e66f884043a73f4188ec4a6e56
+    owner: JACKPURCELL
+    repo: 350787.xyzcomments
+    clientID: e2b5816fe1485c0949a9
+    clientSecret: d9ab9c57dd003946bf59e37472f2751786e29dd0
 
 
 # Analytics settings
