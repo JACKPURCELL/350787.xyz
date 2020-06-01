@@ -67,7 +67,7 @@ netease_comment: false
 # gitalk settings
 gitalk:
     ID: decodeURI(window.location.pathname)
-    owner: JACKPURCELL
+    owner: jackpurcell
     repo: 350787.xyzcomments
     clientID: e2b5816fe1485c0949a9
     clientSecret: d9ab9c57dd003946bf59e37472f2751786e29dd0
