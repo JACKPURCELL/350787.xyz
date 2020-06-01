@@ -45,3 +45,28 @@ multilingual: true
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
+
+{% if site.gitalk.clientID %}
+<!-- Gitalk 评论框 start -->
+<div id="gitalk-container"></div>
+<!-- Gitalk 评论框 end -->
+
+<!-- Gitalk跟帖JS代码 start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script>
+        var gitalk = new Gitalk({
+            id: '{{ page.url | truncate: 50, '' }}',
+            clientID: '{{ site.gitalk.clientID }}',
+            clientSecret: '{{ site.gitalk.clientSecret }}',
+            repo: '{{ site.gitalk.repo }}',
+            owner: '{{ site.gitalk.owner }}',
+            admin: ['{{ site.gitalk.owner }}'],
+            labels: ['gitment'],
+            perPage: 50,
+        });
+        gitalk.render('gitalk-container');
+</script>
+<!-- Gitalk跟帖JS代码 end -->
+
+{% endif %}

@@ -59,11 +59,16 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: liangjiacheng
+disqus_username: false
 
 # Netease settings
 netease_comment: false
 
+gitalk:
+    owner: jackpurcell
+    repo: blog-comments
+    clientID: 4c5b4a53060f2d98899b
+    clientSecret: f55c05fbd59376e66f884043a73f4188ec4a6e56
 
 
 # Analytics settings
