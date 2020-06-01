@@ -64,6 +64,7 @@ disqus_username: false
 # Netease settings
 netease_comment: false
 
+# gitalk settings
 gitalk:
     owner: jackpurcell
     repo: blog-comments
