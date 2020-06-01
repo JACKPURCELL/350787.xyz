@@ -1,18 +1,12 @@
 ---
-title: "My Programming Languages Spectrum"
-subtitle: "我编程语言光谱"
+title: "Hello World"
+subtitle: "看了很多模版，最后选择了他"
 layout: post
-author: "Hux"
+author: "LJC"
 header-style: text
 hidden: true
 plchart: true
-tags:
+tags: Everyday
 ---
 
-<iframe 
-  id="chart"
-  src="https://huangxuan.me/PL-chart/"
-  frameborder="0" 
-  scrolling="no" 
-  style="width: 100%">
-</iframe>
+
