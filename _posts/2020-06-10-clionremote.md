@@ -48,49 +48,49 @@ sudo apt-get install gdb
 
 先整个新的Hello World方便配置
 
-![clion_newproject](../img/in-post/clion_newproject.png)
+![clion_newproject](/img/in-post/clion_newproject.png)
 
 然后进入Preference ,点击+号添加自己的主机信息
 
-![clion_toolchain1](../img/in-post/clion_toolchain1.png)
+![clion_toolchain1](/img/in-post/clion_toolchain1.png)
 
 配置完成后如图，一般下面的路径建议直接手动输入，不建议选用Detect
 
-![clion_shell](../img/in-post/clion_shell.png)
+![clion_shell](/img/in-post/clion_shell.png)
 
-![clion_toolchain2](../img/in-post/clion_toolchain2.png)
+![clion_toolchain2](/img/in-post/clion_toolchain2.png)
 
 然后点击Cmake，勾选上方的自动重新加载Cmake项目，并且把工具链改成刚刚设置的主机
 
-![clion_cmake](../img/in-post/clion_cmake.png)
+![clion_cmake](/img/in-post/clion_cmake.png)
 
-<img src="../img/in-post/clion_change2.png" alt="clion_change2" style="zoom:50%;" />
+<img src="/img/in-post/clion_change2.png" alt="clion_change2" style="zoom:50%;" />
 
 最后记得打开自动上传
 
-![clion_auto](../img/in-post/clion_auto.png)
+![clion_auto](/img/in-post/clion_auto.png)
 
 ## 实际使用
 
 然后就配置完成啦，看看右上方的tag是否变成远程主机
 
-![clion_tag](../img/in-post/clion_tag.png)
+![clion_tag](/img/in-post/clion_tag.png)
 
 刚配置完第一次加在Cmake会很慢，后面就不会了
 
-![clion_start](../img/in-post/clion_start.png)
+![clion_start](/img/in-post/clion_start.png)
 
 
 
 好了，加载完毕了，点击运行看看
 
-![clion_finash](../img/in-post/clion_finash.png)
+![clion_finash](/img/in-post/clion_finash.png)
 
 
 
 再修改看看，不用按保存，直接点击运行，测试下自动上传是否运行正常。
 
-![clion_change](../img/in-post/clion_change.png)
+![clion_change](/img/in-post/clion_change.png)
 
 大功告成
 
@@ -100,7 +100,7 @@ sudo apt-get install gdb
 
 只要把工具链改了，再把自动加载Cmake跟自动上传勾选上就完事了！
 
-![clion_change2](../img/in-post/clion_change2.png)
+![clion_change2](/img/in-post/clion_change2.png)
 
 
 
