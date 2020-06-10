@@ -4,10 +4,14 @@ subtitle: "在Ubuntu上编译运行，避免扯蛋问题"
 layout: post
 author: "LJC"
 header-style: text
-hidden: false
 catalog: true
 multilingual: true
-tags: Tips Clion C Ubuntu MAC
+tags: 
+- Tips 
+- Clion 
+- C 
+- Ubuntu 
+- MAC
 ---
 
 最近大家都苦于计网和操作系统实验的编译环境，不少都开着虚拟机写代码，实在憋屈，由于之前要用到OPENSSL和BOOST库，所有整了这个远程调试，后来都用远程调试编译了。
