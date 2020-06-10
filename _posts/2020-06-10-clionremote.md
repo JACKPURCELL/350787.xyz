@@ -5,7 +5,7 @@ layout: post
 author: "LJC"
 header-style: text
 hidden: false
-catalog:      true
+catalog: true
 multilingual: true
 tags: Tips Clion C Ubuntu MAC
 ---
