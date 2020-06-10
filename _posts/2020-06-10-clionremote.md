@@ -5,7 +5,6 @@ layout: post
 author: "LJC"
 header-style: text
 catalog: true
-multilingual: true
 tags: 
 - Tips 
 - Clion 
