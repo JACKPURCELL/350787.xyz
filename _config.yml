@@ -84,7 +84,7 @@ ga_domain: www.350787.xyz
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: "ljcpro@outlook.com"
 sidebar-avatar: /img/ljc-sin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
