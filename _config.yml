@@ -1,10 +1,10 @@
 # Site settings
 title: JACK PURCELL Blog
-SEOTitle: 梁嘉城的博客 | Liang Jiacheng Blog | JACK PURCELL Blog
+SEOTitle: Jiacheng Liang Blog | 梁嘉城的博客 | JACK PURCELL Blog
 header-img: img/home-bg.jpg
 email: ljcpro@outlook.com
 description: "Here's JACK PURCELL's Blog"
-keyword: "梁嘉城, Liang Jiacheng, JACK PURCELL, UESTC, Dedup, @huxpro, 梁嘉城的博客, Liang Jiacheng Blog"
+keyword: "梁嘉城, Jiacheng Liang, JACK PURCELL, UESTC, Dedup, 梁嘉城的博客, Jiacheng Liang Blog"
 url: "https://www.350787.xyz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
