@@ -62,7 +62,15 @@ E-mail: ljcpro at outlook.com Phone:+86-13258306820
 
 #### **PROJECT & RESEARCH**
 
+
+I am about to join the Hong Kong University of Science and Technology to participate in an undergraduate visiting internship and supervised by Professor Songze Li
+
 I am supervised by Associate Professor Jingwei Li of UESTC
+
+##### **Attack Deduplication System**             **10/2020-now**
+
++ Processing
+
 
 ##### **Deduplication in Cloud Storage Based on JPEG Characteristics**             **01/2020-07/2020**
 
